@@ -1,0 +1,44 @@
+{
+  "name": "react-frontend",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "lint": "eslint .",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@apollo/client": "^4.0.7",
+    "@stripe/react-stripe-js": "^3.7.0",
+    "@stripe/stripe-js": "^7.4.0",
+    "apollo-client": "^2.6.10",
+    "axios": "^1.10.0",
+    "browser-router": "^0.2.0",
+    "graphql": "^16.11.0",
+    "html-react-parser": "^5.2.6",
+    "jquery": "^3.7.1",
+    "owl.carousel": "^2.3.4",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0",
+    "react-markdown": "^10.1.0",
+    "react-owl-carousel": "^2.3.3",
+    "react-router-dom": "^7.6.3",
+    "react-slick": "^0.31.0",
+    "rxjs": "^7.8.2",
+    "slick-carousel": "^1.8.1",
+    "stripe": "^18.3.0"
+  },
+  "devDependencies": {
+    "@eslint/js": "^9.29.0",
+    "@types/react": "^19.1.8",
+    "@types/react-dom": "^19.1.6",
+    "@vitejs/plugin-react": "^4.5.2",
+    "eslint": "^9.29.0",
+    "eslint-plugin-react-hooks": "^5.2.0",
+    "eslint-plugin-react-refresh": "^0.4.20",
+    "globals": "^16.2.0",
+    "vite": "^7.0.0"
+  }
+}
